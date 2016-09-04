@@ -1,4 +1,3 @@
- .idea
 
 /RUNNING_PID
 /logs/
@@ -6,3 +5,5 @@
 /project/project/
 /project/target/
 /target/
+
+.idea
